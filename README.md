@@ -1,6 +1,6 @@
 # Skill acquisition of solo players: a case study 
 
-##`Coursework for PSY6422`
+## `Coursework for PSY6422`
 
 
 In this project, we utlise the research data of [Landfried et al. (2019)](https://doi.org/10.1371/journal.pone.0211014), which is collected from the game *Conquer Club*.
